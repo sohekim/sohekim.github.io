@@ -1,0 +1,19 @@
+.main-screen{
+  display: flex;
+  flex-direction: column;
+  height: 75vh;
+  padding-top: 15vh;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  padding-top: 8vh;
+  color: rgb(248, 247, 247);
+  font-weight: 300;
+  color: #F15239;
+}
+
+.logo {
+  opacity: 1;
+}

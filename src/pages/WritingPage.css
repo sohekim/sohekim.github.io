@@ -1,0 +1,46 @@
+.writing-container {
+  margin: auto;
+  margin-top: 2vh;
+  width: 70vw;
+}
+
+.column {
+  width: 50%;
+  margin: start;
+}
+
+.left {
+  height: calc(150px * 6 + 60px);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.slash {
+  font-size: 25px;
+  color: #f15239;
+  margin: 0%;
+}
+
+.intro-txt {
+  line-height: 150%;
+  font-size: 15px;
+  padding-top: 1px;
+}
+
+.items {
+  margin-top: 35px;
+}
+
+a.medium2:link {
+  color: black;
+}
+a.medium2:visited {
+  color: grey;
+}
+a.medium2:hover {
+  color: #f15239;
+}

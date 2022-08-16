@@ -1,0 +1,56 @@
+.footer {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: #dbe9f6;
+  width: 100%;
+  height: 11vh;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a.linkedIn:link {
+  text-decoration: none;
+  color: black;
+}
+a.linkedIn:hover {
+  color: grey;
+}
+a.linkedIn:visited {
+  color: grey;
+}
+
+a.medium:link {
+  text-decoration: none;
+  color: black;
+}
+a.medium:hover {
+  color: grey;
+}
+a.medium:visited {
+  color: grey;
+}
+
+a.email:link {
+  text-decoration: none;
+  color: black;
+}
+a.email:hover {
+  color: grey;
+}
+a.email:visited {
+  color: grey;
+}
+
+a.github:link {
+  text-decoration: none;
+  color: black;
+}
+a.github:hover {
+  color: grey;
+}
+a.github:visited {
+  color: grey;
+}

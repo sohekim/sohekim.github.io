@@ -1,0 +1,47 @@
+.projectcard-container {
+    /* background-color: aquamarine; */
+    width: 42vw;
+}
+
+.projectcard-container:hover {
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.type {
+    padding-top: 2px;
+    font-weight: 200;
+    font-size: 14px;
+    color: rgb(118, 118, 118);
+}
+
+.desc {
+    /* padding-top: 1px; */
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.thumbnail-container {
+    display:flex;
+    justify-content: center;
+    background-color: bisque;
+    border: 3px white solid;
+    width:100%;
+    height: 75%;
+}
+
+.card-img {
+    margin: -6px;
+    width: 100%;
+}
+
+.thumbnail-container:hover {
+    border: 3px #F15239 solid;
+    overflow: hidden; 
+    padding-left: -1%;
+}
